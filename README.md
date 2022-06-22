@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ParichehrBoreshnavard
+- 👋 Hi, I’m @Cher Boren
 - 👀 I’m interested in pinting ,design,creating and and and programming
-- 🌱 I’m currently learning front end
+- 🌱 I have already finished learning front end and I will soon become a full stack developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
