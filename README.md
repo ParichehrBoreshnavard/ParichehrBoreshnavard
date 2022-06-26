@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cher Boren
-- 👀 I’m interested in pinting ,design,creating and and and programming
-- 🌱 I have already finished learning front end and I will soon become a full stack developer.
+- 👀 I’m interested in painting ,design,creating and and and programming
+- 🌱 I am a front end developer intermediate level [studying].
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
