@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cher Boren
-- 👀 I’m interested in painting ,design,creating and and and programming
+- 👀 I am interested in visual arts, UX design, exploration and problem solving. I am a creator based on my artistic background and am excited to learn more coding and programming.
 - 🌱 I am a front end developer intermediate level [studying].
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
